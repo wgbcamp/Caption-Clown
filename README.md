@@ -8,6 +8,8 @@
 ## Link to application
 * https://polar-harbor-60783.herokuapp.com/
 
+![Project image](/public/assets/sampleimg/captionclown.png)
+
 ## Description
 
 - Share funny photos with your friends and try to make the funniest captions!
