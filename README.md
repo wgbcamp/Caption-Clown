@@ -5,11 +5,6 @@
 #### By Zayd, Parth, Warren, Nadia, Edward
 ​
 
-## Link to application
-* https://polar-harbor-60783.herokuapp.com/
-
-![Project image](/public/assets/sampleimg/captionclown.png)
-
 ## Description
 
 - Share funny photos with your friends and try to make the funniest captions!
@@ -17,6 +12,11 @@
 - Other users can add new captions or vote on existing captions
 - User profile page lists previous image and caption posts
 - User can delete past posts or their account
+
+## Link to application
+* https://polar-harbor-60783.herokuapp.com/
+
+![Project image](/public/assets/sampleimg/captionclown.png)
 
 ## Features
 ​
