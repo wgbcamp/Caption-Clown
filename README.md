@@ -20,6 +20,33 @@
 
 ![Project image](/public/assets/sampleimg/captionclown.png)
 
+## Getting Started
+The following instructions will allow you to clone the project to your machine for testing.
+
+### Installing 
+
+Git clone to your local machine:
+
+```
+https://github.com/wgbcamp/Caption-Clown.git
+```
+
+### Running Application
+
+cd into the directory that you cloned the application to and install dependencies with:
+
+```
+npm install
+```
+
+Start the MySQL80 service on your machine and import schema.sql file from root folder.
+
+Start development environment with:
+
+```
+npm run start
+```
+
 ## Features
 ​
 *  Full CRUD
